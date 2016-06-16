@@ -39,33 +39,21 @@
 <body>
     <form id="form1" runat="server">
         <div class="content">
-            <asp:Repeater ID="Repeater1" runat="server" DataSourceID="sql">
-                <HeaderTemplate>
-                    <table class="movies">
-                        <tr>
-                            <th>Movie Title</th>
-                            <th>Movie Director</th>
-                            <th>Box Office Totals</th>
-                        </tr>
-                </HeaderTemplate>
-                <ItemTemplate>
-                    <tr>
-                        <td><% %></td>
-                        <td><% %></td>
-                        <td><% %></td>
-                    </tr>
-                </ItemTemplate>
-                <AlternatingItemTemplate>
-                    <tr class="alternating">
-                        <td><%#Eval("Title") %></td>
-                        <td><%#Eval("Director") %></td>
-                        <td><%#Eval("BoxOfficeTotals","{0:c}") %></td>
-                    </tr>
-                </AlternatingItemTemplate>
-                <FooterTemplate>
-                    </table>
-                </FooterTemplate>
-            </asp:Repeater>
+
+
+
+
+            <asp:ListView ID="ListView1" runat="server" ItemPlaceholderID="Holder">
+                <LayoutTemplat></LayoutTemplat>
+                <p>1234</p>
+                <p runat="server" id="Holder"></p>
+
+                <ItemTemplate></ItemTemplate>
+            </asp:ListView>
+
+
+
+
         </div>
     </form>
 </body>
