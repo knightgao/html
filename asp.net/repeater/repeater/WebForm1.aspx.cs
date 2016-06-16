@@ -11,7 +11,15 @@ namespace repeater
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            if (!Page.IsPostBack)
+            {
+                BindGrid();
+            }
+        }
+        private void BindGrid()
+        {
+            string sql = "";
         }
     }
+
 }
