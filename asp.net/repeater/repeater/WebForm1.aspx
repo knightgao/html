@@ -6,32 +6,21 @@
 <head runat="server">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <style type="text/css">
-        html
+        body, div, p, img, h1, h2, h3, h4, h5
         {
-            background-color: Silver;
+            margin:0px; padding:0px;
         }
-
-        .content
+        .f1
         {
-            width: 600px;
-            border: soild 1px black;
-            background-color: White;
+            float:left;
         }
-
-        .movies
+        .fr
         {
-            border-collapse: collapse;
+            float:right;
         }
-
-            .movies th, .movies td
-            {
-                padding: 10px;
-                border-bottom: 1px solid black;
-            }
-
-        .alternating
+        .clr
         {
-            background-color: #eeeeee;
+            clear:both;
         }
     </style>
     <title></title>
