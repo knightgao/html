@@ -1,0 +1,5 @@
+C:\Users\gaoye\Desktop\push\html\asp.net\repeater\repeater\bin\repeater.dll
+C:\Users\gaoye\Desktop\push\html\asp.net\repeater\repeater\bin\repeater.pdb
+C:\Users\gaoye\Desktop\push\html\asp.net\repeater\repeater\obj\Debug\repeater.csprojResolveAssemblyReference.cache
+C:\Users\gaoye\Desktop\push\html\asp.net\repeater\repeater\obj\Debug\repeater.dll
+C:\Users\gaoye\Desktop\push\html\asp.net\repeater\repeater\obj\Debug\repeater.pdb
