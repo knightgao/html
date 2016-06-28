@@ -1,0 +1,5 @@
+C:\Users\gaoye\Desktop\push\html\asp.net\chengjipailie\chengjipailie\bin\Debug\chengjipailie.exe
+C:\Users\gaoye\Desktop\push\html\asp.net\chengjipailie\chengjipailie\bin\Debug\chengjipailie.pdb
+C:\Users\gaoye\Desktop\push\html\asp.net\chengjipailie\chengjipailie\obj\Debug\chengjipailie.csprojResolveAssemblyReference.cache
+C:\Users\gaoye\Desktop\push\html\asp.net\chengjipailie\chengjipailie\obj\Debug\chengjipailie.exe
+C:\Users\gaoye\Desktop\push\html\asp.net\chengjipailie\chengjipailie\obj\Debug\chengjipailie.pdb
