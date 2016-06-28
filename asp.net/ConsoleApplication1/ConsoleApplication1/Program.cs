@@ -14,7 +14,7 @@ namespace ConsoleApplication1
             string str2 = "";
             int sum = 0;
             string[] arr1 = new string[100];
-            for (int i=0; str1.Length>i;i++  )
+            for (int i=0; i<str1.Length;i++  )
             {
                 str2 = str1.Substring(i, 1);
                 arr1[i] = str2;
