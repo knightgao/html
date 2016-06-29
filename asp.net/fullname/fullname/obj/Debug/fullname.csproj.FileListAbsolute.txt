@@ -1,0 +1,5 @@
+C:\Users\gaoye\Desktop\push\html\asp.net\fullname\fullname\bin\Debug\fullname.exe
+C:\Users\gaoye\Desktop\push\html\asp.net\fullname\fullname\bin\Debug\fullname.pdb
+C:\Users\gaoye\Desktop\push\html\asp.net\fullname\fullname\obj\Debug\fullname.csprojResolveAssemblyReference.cache
+C:\Users\gaoye\Desktop\push\html\asp.net\fullname\fullname\obj\Debug\fullname.exe
+C:\Users\gaoye\Desktop\push\html\asp.net\fullname\fullname\obj\Debug\fullname.pdb
