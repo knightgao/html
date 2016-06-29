@@ -7,31 +7,29 @@ namespace JHZ
 {
     class Program
     {
-        static void Main(string[] args)
+        class Employee
         {
-            string first = Console.ReadLine();
-            string second = "goodbye";
-            int result = 0;
-            try
-            {
-                int i = int.Parse(first);
-                Console.Write("{0}", i);
-            }
-            catch (System.FormatException)
-            {
-                Console.Write("输入的字符不合法{0}", first);
-                result = 1;
-            }
-            catch (Exception exception)
-            {
-                Console.WriteLine("unexpected error : {0}", exception.Message);
-                result = 1;
-            }
-            finally
-            {
-                Console.WriteLine("\n\rGoodbye {0}", second);
-            }
+            public string FirstName;
+            public string LastName;
+            public string Salary = "Not enough";
         }
-        
+        static void Main()
+        {
+            Employee employee1 = new Employee();
+            Employee employee2;
+            employee2 = new Employee();
+
+            employee1.FirstName = "Inigo";
+            employee1.LastName = "Montoya";
+            employee1.Salary = "Too Little";
+            IncreaseSalary(employee1);
+            System.Console.WriteLine(
+                "{0} {1}: {2}", employee1.FirstName, employee1.LastName, employee1.Salary
+            );
+        }
+        static void IncreaseSalary(Employee employee)
+        {
+            employee.Salary = "Enough to survive on";
+        }
     }
 }
