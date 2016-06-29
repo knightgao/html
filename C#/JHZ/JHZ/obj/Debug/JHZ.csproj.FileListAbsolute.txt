@@ -1,0 +1,5 @@
+C:\Users\gaoye\Desktop\push\html\C#\JHZ\JHZ\obj\Debug\JHZ.csprojResolveAssemblyReference.cache
+C:\Users\gaoye\Desktop\push\html\C#\JHZ\JHZ\bin\Debug\JHZ.exe
+C:\Users\gaoye\Desktop\push\html\C#\JHZ\JHZ\bin\Debug\JHZ.pdb
+C:\Users\gaoye\Desktop\push\html\C#\JHZ\JHZ\obj\Debug\JHZ.exe
+C:\Users\gaoye\Desktop\push\html\C#\JHZ\JHZ\obj\Debug\JHZ.pdb
