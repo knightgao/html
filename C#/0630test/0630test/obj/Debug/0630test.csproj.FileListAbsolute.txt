@@ -1,0 +1,5 @@
+C:\Users\gaoye\Desktop\push\html\C#\0630test\0630test\bin\Debug\0630test.exe
+C:\Users\gaoye\Desktop\push\html\C#\0630test\0630test\bin\Debug\0630test.pdb
+C:\Users\gaoye\Desktop\push\html\C#\0630test\0630test\obj\Debug\0630test.csprojResolveAssemblyReference.cache
+C:\Users\gaoye\Desktop\push\html\C#\0630test\0630test\obj\Debug\0630test.exe
+C:\Users\gaoye\Desktop\push\html\C#\0630test\0630test\obj\Debug\0630test.pdb
